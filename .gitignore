@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+auth.env
+docker-compose.override.yml
+*.csv
+*.odt
